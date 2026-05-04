@@ -77,7 +77,7 @@ void FIND(Node *head, int x){
 
 void printList(Node *head){
     if (head == NULL){
-        printf("List Empty\n");
+        printf("List Empty");
         return;
     }
     printf("LIST");
